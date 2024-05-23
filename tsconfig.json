@@ -19,9 +19,7 @@
     ],
     //shortcut for paths of root directory or path of a folder
     "paths": {
-      "@/*": ["./src/*"],
-      "#/*": ["./src/app/*"],
-      "&/*": ["./src/app/_components/*"]
+      "@/*": ["./src/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
